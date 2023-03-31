@@ -1,6 +1,6 @@
 - Hi, I’m Fernando Roa O. @fernandoroa
 - I’m a shiny developer at appsilon
-- Email: fernando@appsilon.com
+- Email: froao@unal.edu.co
 
 <!---
 fernandoroa/fernandoroa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
