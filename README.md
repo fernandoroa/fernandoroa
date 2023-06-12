@@ -1,5 +1,4 @@
 - Hi, I’m Fernando Roa O. @fernandoroa
-- I’m a shiny developer at appsilon
 - Email: froao@unal.edu.co
 
 <!---
