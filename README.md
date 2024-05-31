@@ -16,7 +16,7 @@ R-shiny: [Invoice](https://github.com/fernandoroa/invoice-public),
 [NLPShiny](https://github.com/fernandoroa/NLPShiny_rhino_mod)  
 R package: [gitlab dotsViolin](https://gitlab.com/ferroao/dotsViolin)
 
-Markdown Related: [gitlab manualidiogramfish](https://gitlab.com/ferroao/manualidiogramfish), [gitlab curriculumpu](https://gitlab.com/ferroao/curriculumpu)
+Markdown Related: [gitlab manualidiogramfish](https://gitlab.com/ferroao/manualidiogramfish), [gitlab curriculumpu](https://gitlab.com/ferroao/curriculumpu), [gh-actions tutorial](https://github.com/fernandoroa/gh-actions-tuto-fede)
 
 Python challenges: [h_rank](https://github.com/fernandoroa/h_rank_challenges)
 
