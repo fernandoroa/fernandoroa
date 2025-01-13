@@ -7,9 +7,7 @@ I have migrated from that to this profile.
 
 I also use gitlab. https://gitlab.com/ferroao
 
-I am open to work.
-
-I have worked with Shiny Apps, for personal/academic projects for several years, and in Pharmaceutical apps in the industry for one year
+I have worked with Shiny Apps, for personal/academic projects for several years, and in Pharmaceutical / entertainment industry apps for 2 years
 
 R-shiny academics: [gitlab idiogramFISH](https://gitlab.com/ferroao/idiogramFISH), [gitlab cytoevo](https://gitlab.com/ferroao/cytoevopri), [Citrus Network](https://github.com/fernandoroa/citrusnetwork), [gbif_map_shiny](https://github.com/fernandoroa/gbif_map_shiny)  
 R-shiny: [Invoice](https://github.com/fernandoroa/invoice-public),
